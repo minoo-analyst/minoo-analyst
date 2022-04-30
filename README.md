@@ -3,6 +3,6 @@
  
  I am an ambitious, aspiring data analyst.
  
- Please feel free to look at my projects on the fundamentals of Python tools, E-Commerce and Survey Data Analysis!
+ Please feel free to look at my AWS projects on the fundamentals of Python tools, E-Commerce and Survey Data Analysis!
  
  More projects coming soon :)
