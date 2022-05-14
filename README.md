@@ -5,7 +5,7 @@ Please feel free to look at my AWS based Analysis projects on the fundamentals o
   
 Watch my portfolio progress in the following URL:    
 https://d3reelqic2he7d.cloudfront.net  
- 
+   
 Furthermore, these projects are documented within my YouTube Channel:    
 https://www.youtube.com/watch?v=XG44LZIgcuI&list=PLisYSIHvE9qNNtSqvrGT37LChAmo2JwMt
  
