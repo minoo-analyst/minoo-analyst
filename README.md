@@ -8,5 +8,5 @@ Please feel free to look at my AWS based Analysis projects on the fundamentals o
 Furthermore, the above projects are documented within my YouTube Channel:    
 https://www.youtube.com/watch?v=XG44LZIgcuI&list=PLisYSIHvE9qNNtSqvrGT37LChAmo2JwMt
  
-Additionally, check out my latest projects which range from a variety subjects from Hospital ER Wait Times & Ratings (8), Credit Card Customer Groups (9), Employee Attrition Rates (10), and Airline Reviews (11-12)!
+Additionally, check out my latest projects which range from a variety subjects from Hospital ER Wait Times & Ratings (8), Credit Card Customer Groups (9), Employee Attrition Rates (10), Airline Reviews (11-12), and Finance KPI's (13)!
 These are produced in Python, PowerBI & Tableau.
